@@ -285,24 +285,4 @@ CMD ["npm", "run", "build:server"]
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- Icons by [Lucide](https://lucide.dev/)
-- Images from [Pexels](https://pexels.com/)
-- UI inspiration from modern design systems
-- Built with modern web technologies
-
-## 📞 Support
-
-For support and questions:
-- Create an issue in the repository
-- Check the documentation
-- Review the demo accounts and test data
-
----
-
 **Built with ❤️ using React, Node.js, and modern web technologies**
